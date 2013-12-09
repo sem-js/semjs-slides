@@ -718,3 +718,21 @@ a:focus {
     width: 400px;
     margin-left: 200px;
 }
+
+.logos {
+    text-align:     center;
+}
+
+#logoSubmissions img {
+    margin-top: 30px;
+    text-align: center;
+    width: 760px;
+}
+
+#logoWinner q {
+    text-align: center;
+}
+
+#logoWinner img {
+    width: 500px;
+}
