@@ -736,3 +736,7 @@ a:focus {
 #logoWinner img {
     width: 500px;
 }
+
+h2 {
+    line-height: 68px;
+}
