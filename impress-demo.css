@@ -729,6 +729,15 @@ a:focus {
     width: 760px;
 }
 
+#aaGiveCamp img {
+    width: 600px;
+}
+
+#jobs img {
+    width: 800px;
+    text-align: center;
+}
+
 #logoWinner q {
     text-align: center;
 }
