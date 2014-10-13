@@ -749,3 +749,7 @@ a:focus {
 h2 {
     line-height: 68px;
 }
+
+a.sessions {
+    font-size: 44px;
+}
