@@ -746,6 +746,10 @@ a:focus {
     width: 500px;
 }
 
+#gdi img {
+    width: 400px;
+}
+
 h2 {
     line-height: 68px;
 }
