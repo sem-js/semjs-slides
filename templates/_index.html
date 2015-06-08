@@ -41,95 +41,18 @@
 
             <div class="slides">
 
-                
-                    
-                        
-    <section data-markdown="slides/index.md"></section>
-
-
-                    
-                    
-                
-                    
-                        
-    <section data-markdown="slides/organizers.md"></section>
-
-
-                    
-                    
-                
-                    
-                        
-    <section data-markdown="slides/upcoming-meetings.md"></section>
-
-
-                    
-                    
-                
-                    
-                        
-    <section data-markdown="slides/sponsors.md"></section>
-
-
-                    
-                    
-                
-                    
-                        
-    <section data-markdown="slides/study-group.md"></section>
-
-
-                    
-                    
-                
-                    
-                        
-    <section data-markdown="slides/nodebots.md"></section>
-
-
-                    
-                    
-                
-                    
-                        
-    <section data-markdown="slides/cool-events.md"></section>
-
-
-                    
-                    
-                
-                    
-                        
-    <section data-markdown="slides/jobs.md"></section>
-
-
-                    
-                    
-                
-                    
-                        
-    <section data-markdown="slides/post-meeting-analysis.md"></section>
-
-
-                    
-                    
-                
-                    
-                        
-    <section data-markdown="slides/lightning-talk.md"></section>
-
-
-                    
-                    
-                
-                    
-                        
-    <section data-markdown="slides/feature.md"></section>
-
-
-                    
-                    
-                
+                <% _.forEach(slides, function(slide) { %>
+                    <% if (!_.isArray(slide)) { %>
+                        <%= section(slide) %>
+                    <% } %>
+                    <% if (_.isArray(slide)) { %>
+                        <section>
+                            <% _.forEach(slide, function(verticalslide) { %>
+                                <%= section(verticalslide) %>
+                            <% }); %>
+                        </section>
+                    <% } %>
+                <% }); %>
             </div>
 
         </div>
