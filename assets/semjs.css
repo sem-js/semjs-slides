@@ -50,6 +50,7 @@ body {
 .reveal a:not(.image) {
   color: #EDD769;
   text-decoration: none;
+  font-weight: bold;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
   -ms-transition: color .15s ease;
@@ -83,6 +84,10 @@ body {
   background: rgba(255, 255, 255, 0.2);
   border-color: #EDD769;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
+
+.reveal img.noborder {
+  border: 0px;
+}
 
 /*********************************************
  * NAVIGATION CONTROLS
