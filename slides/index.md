@@ -6,5 +6,6 @@
 
 Twitter: @sem_js
 
-**WiFi: ** 
+- **WiFi Name: ** <a href="wifi.html" id="wifiNameValue"></a>
+- **WiFi Password: ** <a href="wifi.html" id="wifiPasswordValue"></a>
 
