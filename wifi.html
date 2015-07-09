@@ -1,0 +1,62 @@
+<html>
+	<head>
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+	</head>
+	<body>
+		<h1>Set the WiFi Info:</h1>
+
+		<div class="row">
+			<form class="col-md-6" onsubmit="setWiFi()">
+			  <div class="form-group">
+			    <label for="wifiName">WiFi SSID</label>
+			    <input type="text" class="form-control" id="wifiName" placeholder="WiFi SSID">
+			  </div>
+			  <div class="form-group">
+			    <label for="wifiPassword">WiFi Password</label>
+			    <input type="text" class="form-control" id="wifiPassword" placeholder="WiFi Password">
+			  </div>
+			  
+			  <button type="submit" class="btn btn-default">Submit</button>
+			</form>
+
+			<div class="col-md-6">
+				<h2>Current Values:</h2>
+				<div>
+					<div>
+						<strong>WiFi Name:</strong> <span id="wifiNameValue"></span>
+					</div>
+					<div>
+						<strong>WiFi Password:</strong> <span id="wifiPasswordValue"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div>
+			<h3><a href="/">Back to slides...</a></h3>
+		</div>
+		<script language="JavaScript">
+			function setWiFi() {
+				["Name", "Password"].forEach(function(name) {
+					var value = document.getElementById("wifi" + name).value;
+					localStorage.setItem("wifi" + name, value);
+				});
+
+				console.log(localStorage)
+			}
+
+			function displayCurrentSettings() {
+				["Name", "Password"].forEach(function(name) {
+					var value = localStorage["wifi" + name];
+					document.getElementById("wifi" + name + "Value").innerText = value || "nothing";
+				});
+			}
+
+			displayCurrentSettings();
+		</script>
+	</body>
+</html>

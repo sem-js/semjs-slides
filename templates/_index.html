@@ -86,6 +86,14 @@
                     { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
                 ]
             });
+
+            Reveal.addEventListener( 'ready', function( event )
+            {
+                ["Name", "Password"].forEach(function(name) {
+                    document.getElementById('wifi' + name + 'Value').innerText = localStorage['wifi' + name] || "set";
+                })
+                
+            } );
         </script>
 
     </body>

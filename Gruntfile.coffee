@@ -69,7 +69,8 @@ module.exports = (grunt) ->
                         'bower_components/**'
                         'js/**'
                         'assets/**'
-                        'CNAME'
+                        'CNAME',
+                        'wifi.html'
                     ]
                     dest: 'dist/'
                 },{
