@@ -1,3 +1,3 @@
-## Web Components
-### James York
+## Ember CLI
+### Tom Zellman
 

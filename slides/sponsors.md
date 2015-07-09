@@ -1,4 +1,5 @@
 ##  Sponsors
 
-- **Location & Food**: Pillar
+- **Location**: Barracuda
+- **Food**: Beacon Hill
 - **AV**: Symphono [sessions.semjs.org](http://sessions.semjs.org)

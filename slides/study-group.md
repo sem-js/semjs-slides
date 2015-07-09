@@ -1,3 +1,3 @@
 ##  Study Group
-### June 22 at The Forge
+### July 27 at The Forge
 #### Hosted by Miguel Castillo

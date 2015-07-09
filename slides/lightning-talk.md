@@ -1,3 +1,3 @@
 ##  Lightning Talk
-### Ember Data Roller Coaster
-#### Jeanette Head
+### node-postgres and pg-promise in 300 Seconds or Less
+#### Matt Morgan
