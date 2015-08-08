@@ -1,3 +1,3 @@
 ##  Lightning Talk
-### node-postgres and pg-promise in 300 Seconds or Less
-#### Matt Morgan
+### SQRL: Beyond Passwords
+#### Mike Behnke

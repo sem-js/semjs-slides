@@ -1,3 +1,3 @@
-## Ember CLI
-### Tom Zellman
+## Taking Your Web Apps Offline
+### Mike Nitchie
 
