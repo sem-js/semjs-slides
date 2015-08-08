@@ -1,5 +1,5 @@
 ##  Sponsors
 
-- **Location**: Barracuda
-- **Food**: Beacon Hill
+- **Location**: Nutshell
+- **Food**: Vaco
 - **AV**: Symphono [sessions.semjs.org](http://sessions.semjs.org)
