@@ -1,3 +1,3 @@
 ##  Lightning Talk
-### SQRL: Beyond Passwords
-#### Mike Behnke
+### Drawing The Performance of Your Web App
+#### Jeanette Head
