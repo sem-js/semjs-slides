@@ -1,3 +1,3 @@
 ##  Study Group
-### September 28 at The Forge
+### October 26 at The Forge
 #### Hosted by Miguel Castillo

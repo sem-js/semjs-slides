@@ -1,3 +1,3 @@
-## Building web applications with unidirectional data flow in React.JS and Flux
-### Kevin Towner
+## THREE.js: Explore the Possibilities
+### Breanna Turcsanya and Jeremy Strawn
 
