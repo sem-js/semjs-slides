@@ -1,3 +1,3 @@
 ##  Lightning Talk
-### A NodeBots Retrospective
-#### Shanna Singleton
+### Immutable JavaScript
+#### Miguel Castillo
