@@ -1,3 +1,3 @@
-## THREE.js: Explore the Possibilities
-### Breanna Turcsanya and Jeremy Strawn
+## Presenting the basics of Sequelize.js
+### Eric Stevens
 
