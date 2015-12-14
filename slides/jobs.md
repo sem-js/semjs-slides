@@ -2,4 +2,4 @@
 
 ![Languages](../assets/languages.jpg)
 
-[BrianGenisio@Gmail.com](mailto://BrianGenisio@Gmail.com)
+[Maddy Andrade -- jobs@semjs.org](mailto://jobs@semjs.org)
