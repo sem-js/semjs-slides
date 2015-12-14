@@ -1,3 +1,3 @@
-## Presenting the basics of Sequelize.js
-### Eric Stevens
+## Building Angular Applications with TypeScript
+### @BillWagner
 
