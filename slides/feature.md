@@ -1,3 +1,3 @@
-## Building Angular Applications with TypeScript
-### @BillWagner
+## API-Driven Development with Sails.js For Fun and Profit
+### @TravisWebbUSA
 

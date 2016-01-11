@@ -1,3 +1,3 @@
 ##  Lightning Talk
-### Elm
-#### Mike Ward
+### Yeoman
+#### Dennis Burton

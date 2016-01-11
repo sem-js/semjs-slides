@@ -1,4 +1,4 @@
-##  Study Group -- !DECEMBER
+##  Study Group
 ### January 25 at The Forge
 #### Hosted by Miguel Castillo
 
