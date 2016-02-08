@@ -1,3 +1,3 @@
 ##  Lightning Talk
-### Yeoman
-#### Dennis Burton
+### TopicHero.com
+#### Justin Coven

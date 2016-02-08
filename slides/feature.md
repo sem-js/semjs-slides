@@ -1,3 +1,3 @@
-## API-Driven Development with Sails.js For Fun and Profit
-### @TravisWebbUSA
+## Happier TDD with testdouble.js
+### Justin @Searls
 
