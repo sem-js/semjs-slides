@@ -1,7 +1,6 @@
 ##  new SEM.js();
 ### 2nd Monday -- 6:00 PM
 
-- **March 14** -- React Native with Matt LaForest
 - **April 11** -- RIOT.js with Mike Ward
 - **May 9** -- Lightning Talks
 <br />

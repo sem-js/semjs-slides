@@ -1,2 +1,2 @@
 ## [SelfConference.org](http://selfconference.org)
-### Early Bird Tix & CFP
+### May 20-21 @MotorCity Casino

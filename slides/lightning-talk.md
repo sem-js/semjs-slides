@@ -1,3 +1,3 @@
 ##  Lightning Talk
-### TopicHero.com
-#### Justin Coven
+### Using HTML as an interchange format
+#### Spencer Jobe

@@ -1,3 +1,3 @@
-## Happier TDD with testdouble.js
-### Justin @Searls
+## Native Mobile Apps with React Native
+### Matt LaForest
 
