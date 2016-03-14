@@ -1,7 +1,7 @@
 ##  Sponsors
 
-- **Location**: Nutshell
-- **Food**: Beacon Hill
+- **Location**: Pillar
+- **Food**: Pillar
 - **AV**: Symphono [sessions.semjs.org](http://sessions.semjs.org)
 
 <br />
