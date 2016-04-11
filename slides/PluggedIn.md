@@ -1,5 +1,5 @@
-## An Introduction to Mocks -- An Evening of Mockery
+## Personas & Scenarios
 ### Pillar PluggedIn
-#### March 24th 6PM
+#### April 28th 6PM
 
-https://goo.gl/wsmjx4
+https://goo.gl/xWGrOu

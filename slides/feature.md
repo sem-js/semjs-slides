@@ -1,3 +1,3 @@
-## Native Mobile Apps with React Native
-### Matt LaForest
+## RIOT - A React-like user interface micro-library
+### Mike Ward
 
