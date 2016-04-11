@@ -1,8 +1,9 @@
 ##  new SEM.js();
 ### 2nd Monday -- 6:00 PM
 
-- **April 11** -- RIOT.js with Mike Ward
 - **May 9** -- Lightning Talks
+- **June 13** -- Done.js with Justin Meyer
+- **July 11** -- ????? You?
 <br />
 <br />
 
