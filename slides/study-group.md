@@ -1,5 +1,5 @@
 ##  Study Group
-### April 25th at The Forge
+### May 23rd at The Forge
 #### Hosted by Miguel Castillo
 
 study@semjs.org
