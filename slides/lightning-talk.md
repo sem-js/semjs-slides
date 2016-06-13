@@ -1,3 +1,3 @@
 ##  Lightning Talk
-### JSWat.org
-#### Brian Genisio
+### Content Security Policy
+#### Suby Raman
