@@ -1,8 +1,8 @@
 ##  new SEM.js();
 ### 2nd Monday -- 6:00 PM
 
-- **July 11** -- Git Gone Wilde with Magnus Stahre
-- **August 8** -- Electron with Javan Makhmali
+- **September 12** -- Inline styling using Aphrodite with Kevin Dangoor
+- **October 10** -- Real world ES2015 with Brian Genisio
 <br />
 <br />
 
