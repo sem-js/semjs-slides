@@ -1,7 +1,7 @@
 ##  Sponsors
 
-- **Location**: Nutshell
-- **Food**: Duo Security
+- **Location**: Pillar
+- **Food**: Pillar
 - **AV**: Symphono [sessions.semjs.org](http://sessions.semjs.org)
 - **SWAG**: Greenlancer
 
