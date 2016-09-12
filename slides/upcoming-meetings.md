@@ -2,7 +2,8 @@
 ### 2nd Monday -- 6:00 PM
 
 - **September 12** -- Inline styling using Aphrodite with Kevin Dangoor
-- **October 10** -- Real world ES2015 with Brian Genisio
+- **November 14** -- ?????? with ??????
+- **December 12** -- Reactive Extensions with Ryan Lanciaux
 <br />
 <br />
 

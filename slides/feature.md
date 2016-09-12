@@ -1,5 +1,12 @@
-## Electron — If you can build a website, you can build a desktop app
-### Javan Makhmali
-#### Developer at Basecamp
-#### Co-Creator of Trix Editor
+## Inline Styling Using Aphrodite
+### Kevin Dangoor
+
+- Developer/Manager at KhanAcademy.org
+- Founder of CommonJS
+- Creator of TurboGears
+- Brackets
+- Mozilla Developer Tools
+- OSS Developer
+- Childrens' Book Author
+- Organizer of A2DIV 
 
