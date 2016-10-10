@@ -1,3 +1,3 @@
 ##  Lightning Talk
-### HTTP2
-#### Kunle Oshiyoye
+### Cognitive Services, Image Recognition, Machine Learning, and JavaScript
+#### David Giard
