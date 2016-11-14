@@ -1,7 +1,7 @@
 ##  Sponsors
 
-- **Location**: Barracuda Networks
-- **Food**: CareEvolution
+- **Location**: Nutshell
+- **Food**: Deepfield (new)
 - **AV**: Symphono [sessions.semjs.org](http://sessions.semjs.org)
 - **SWAG**: Greenlancer
 

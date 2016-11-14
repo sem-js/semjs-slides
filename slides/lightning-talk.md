@@ -1,3 +1,3 @@
 ##  Lightning Talk
-### Cognitive Services, Image Recognition, Machine Learning, and JavaScript
-#### David Giard
+### Strings Under the V8 Hood
+#### Jay Wren

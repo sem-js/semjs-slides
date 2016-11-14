@@ -1,7 +1,8 @@
-## 10 insane tips you can use TODAY to ES6/2015 effectively; #8 will shock you!
-### Brian Genisio
+## Building a Modern Front-End Development Workflow
+### Ian VanSchooten
 
-- Developer at KhanAcademy.org
-- Front-end developer since 2007
-- Co-Founder of SEM.js
-- Creator of LearnHarmony.org
+- Developer at Nutshell
+- Chicken Farmer
+- Contributor to ESLint
+- Former aerospace engineer
+- Active member of SEM.js
