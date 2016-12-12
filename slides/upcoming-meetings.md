@@ -1,7 +1,7 @@
 ##  new SEM.js();
 ### 2nd Monday -- 6:00 PM
 
-- **December 12** -- Reactive Extensions with Ryan Lanciaux
+- **January 9** -- Journey to Bundling in JavaScript with Miguel Castillo
 <br />
 <br />
 
