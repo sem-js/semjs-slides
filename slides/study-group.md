@@ -1,5 +1,5 @@
-##  Study Group (SKIP DECEMBER)
+##  Study Group
 ### January 23rd at The Forge
-#### Hosted by Miguel Castillo
+#### Hosted by Danielle Closs and Matt Morgan
 
 study@semjs.org

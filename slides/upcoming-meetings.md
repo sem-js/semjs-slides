@@ -1,7 +1,7 @@
 ##  new SEM.js();
 ### 2nd Monday -- 6:00 PM
 
-- **January 9** -- Journey to Bundling in JavaScript with Miguel Castillo
+- **February 13** Redux: The State Machine with Jim Hall
 <br />
 <br />
 

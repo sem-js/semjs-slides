@@ -1,2 +1,2 @@
-## Using Reactive Extensions
-### Ryan Lanciaux
+## Journey to Bundling Applications
+### Miguel Castillo
