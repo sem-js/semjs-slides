@@ -1,3 +1,3 @@
 ##  Lightning Talk
-### Tor
-#### Dave
+### NPM as Your Task Runner
+#### James Kruth

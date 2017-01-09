@@ -1,7 +1,7 @@
 ##  Sponsors
 
-- **Location**: Pillar
-- **Food**: Pillar
+- **Location**: Barracuda
+- **Food**: Detroit Labs
 - **AV**: Symphono [sessions.semjs.org](http://sessions.semjs.org)
 - **SWAG**: Greenlancer
 
