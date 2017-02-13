@@ -1,3 +1,3 @@
 ##  Lightning Talk
-### NPM as Your Task Runner
-#### James Kruth
+### Contributing to Open Source for First-timers
+#### Mark LeMerise
