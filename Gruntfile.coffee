@@ -90,7 +90,6 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:sem-js/semjs-slides.git'
                     branch: 'gh-pages'
 
 
