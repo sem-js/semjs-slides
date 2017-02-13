@@ -69,7 +69,7 @@ module.exports = (grunt) ->
                         'bower_components/**'
                         'js/**'
                         'assets/**'
-                        'CNAME',
+                        'CNAME'
                         'wifi.html'
                     ]
                     dest: 'dist/'
@@ -90,6 +90,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
+                    remote: 'https://github.com/sem-js/semjs-slides.git'
                     branch: 'gh-pages'
 
 
