@@ -1,2 +1,2 @@
-## Journey to Bundling Applications
-### Miguel Castillo
+## Redux, The State Machine
+### Jim Hall
