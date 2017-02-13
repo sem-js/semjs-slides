@@ -6,12 +6,20 @@ sem-js meetup slides
 
 ## install
 
-### `$ git clone https://github.com/sem-js/semjs-slides.git`
-### `$ npm install`
-### `$ npm run bower`
+```
+$ git clone https://github.com/sem-js/semjs-slides.git
+$ npm install
+$ npm run bower
+```
 
 ## serve locally
-### `$ npm run serve`
+
+```
+$ npm run serve
+```
 
 ## deploy
-### `$ npm run deploy`
+
+```
+$ npm run deploy
+```
