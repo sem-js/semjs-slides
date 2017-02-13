@@ -7,7 +7,7 @@ module.exports = (grunt) ->
 
             livereload:
                 options:
-                    livereload: true
+                    livereload: 35735
                 files: [
                     'index.html'
                     'slides/{,*/}*.{md,html}'
@@ -29,7 +29,7 @@ module.exports = (grunt) ->
             jshint:
                 files: ['js/*.js']
                 tasks: ['jshint']
-        
+
         connect:
 
             livereload:
@@ -40,7 +40,7 @@ module.exports = (grunt) ->
                     hostname: 'localhost'
                     base: '.'
                     open: true
-                    livereload: true
+                    livereload: 35735
 
         coffeelint:
 
@@ -80,7 +80,7 @@ module.exports = (grunt) ->
                     filter: 'isFile'
                 }]
 
-        
+
         buildcontrol:
 
             options:
@@ -92,7 +92,7 @@ module.exports = (grunt) ->
                 options:
                     remote: 'git@github.com:sem-js/semjs-slides.git'
                     branch: 'gh-pages'
-        
+
 
 
     # Load all grunt tasks.
@@ -133,13 +133,13 @@ module.exports = (grunt) ->
             'copy'
         ]
 
-    
+
     grunt.registerTask 'deploy',
         'Deploy to Github Pages', [
             'dist'
             'buildcontrol'
         ]
-    
+
 
     # Define default task.
     grunt.registerTask 'default', [
