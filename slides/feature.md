@@ -1,2 +1,2 @@
-## Redux, The State Machine
-### Jim Hall
+## React and D3: A Tale of Two DOMs
+### Danielle Closs

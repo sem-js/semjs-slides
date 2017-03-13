@@ -1,7 +1,7 @@
 ##  new SEM.js();
-### 2nd Monday -- 6:00 PM
+### 2nd Monday of every month -- 6:00 PM
 
-- **March 13th** Building modern Aurelia and ASP.Net web applications with Eric Potter
+- **April 10th** Clean Architecture with Rob
 <br />
 <br />
 
