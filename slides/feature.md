@@ -1,2 +1,2 @@
-## React and D3: A Tale of Two DOMs
-### Danielle Closs
+## Clean Architecture to compliment Redux
+### Rob Meyer
