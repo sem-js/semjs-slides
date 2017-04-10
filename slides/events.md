@@ -1,5 +1,12 @@
 ## events
 
+- **Ann Arbor Software Co-Workers**
+
+<pre>
+Every Friday at Expresso Royale on Main
+https://www.meetup.com/Ann-Arbor-Software-Co-Workers/
+</pre>
+
 - **Detroit.Code()**
 
 <pre>
