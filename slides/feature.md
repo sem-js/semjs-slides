@@ -2,18 +2,18 @@
 <br/>
 <br/>
 
-- **It is OK to fail** - Brian Genesio
-- **JavaScript Class Syntax Sugar** - James Kruth
-- **AWS Lambda** - Steve Coffman
-- **Google Cloud Functions** - Jay Wren
-- **Google Vision API** - Matt Long
+- Brian Genesio - **It is OK to fail**
+- James Kruth - **JavaScript Class Syntax Sugar**
+- Steve Coffman - **AWS Lambda**
+- Jay Wren - **Google Cloud Functions**
+- Matt Long - **Google Vision API**
 
 <br/>
 ### **Cupcakes**
 <br/>
 
-- **Create React App** - Mark Moeckel
-- **Building slack bots** - Jamie
-- **Nashorn - JavaScript on the JVM** - Spencer Jobe
-- **Fetch API and Service Workers** - Dan Diebolt
-- **Unit tests with Jest** - Ian Vanschooten
+- Mark Moeckel - **Create React App**
+- Jamie - **Building slack bots**
+- Spencer Jobe - **Nashorn - JavaScript on the JVM**
+- Dan Diebolt - **Fetch API and Service Workers**
+- Ian Vanschooten - **Unit tests with Jest**
