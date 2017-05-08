@@ -1,7 +1,7 @@
 ##  Sponsors
 
-- **Location**: Barracuda
-- **Food**: X by 2
+- **Location**: Nutshell
+- **Food**: Vaco
 - **AV**: Symphono [sessions.semjs.org](http://sessions.semjs.org)
 - **SWAG**: Greenlancer
 
