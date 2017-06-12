@@ -1,7 +1,6 @@
 ##  Sponsors
 
-- **Location and CUPCAKES!!!**: Nutshell
-- **Food**: Vaco
+- **Food and Location**: Pillar
 - **AV**: Symphono [sessions.semjs.org](http://sessions.semjs.org)
 - **SWAG**: Greenlancer
 
