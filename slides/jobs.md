@@ -1,4 +1,4 @@
-##  Jobs
+## Jobs
 
 ![Languages](../assets/languages.jpg)
 

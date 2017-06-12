@@ -1,3 +1,3 @@
-##  Lightning Talk
-### Docker
-#### Michael Tiller
+## Lightning Talk
+### Building a Node CLI with Commander
+#### Bernardo Pacheco
