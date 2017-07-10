@@ -1,17 +1,16 @@
 ## events
 
-- **Ann Arbor Software Co-Workers**
+- ** Ann Arbor Software Co-Workers **
 
 <pre>
 Every Friday at Expresso Royale on Main
 https://www.meetup.com/Ann-Arbor-Software-Co-Workers/
 </pre>
 
-- **Detroit.Code()**
+- ** A2FP **
 
 <pre>
-Jully 10-12, 2017.
-GM Renaissance Center in downtown Detroit
-https://detroitcode.amegala.com/
-Use coupon "SEMjs" for $50 off.
+Thursday, Jully 27, 2017 @ 6:30pm.
+Lobby of the "618 SOUTH MAIN" building
+https://www.meetup.com/AnnArborFP/events/241385287/
 </pre>
