@@ -1,6 +1,7 @@
 ##  Sponsors
 
-- **Food and Location**: Pillar
+- **Location**: Barracuda Networks
+- **Food**: Beacon Hill
 - **AV**: Symphono [sessions.semjs.org](http://sessions.semjs.org)
 - **SWAG**: Greenlancer
 

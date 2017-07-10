@@ -1,7 +1,7 @@
 ## new SEM.js();
 ### 2nd Monday of every month -- 6:00 PM
 
-** July 10th ** NodeJS Swagger client and Couchbase with Hod Greeley
+** August 14th ** Angular CLI with Stephen Cavaliere
 <br/>
 <br/>
 
