@@ -1,7 +1,7 @@
 ##  Sponsors
 
-- **Location**: Barracuda Networks
-- **Food**: Beacon Hill
+- **Location**: Nutshell
+- **Food**: Deepfield
 - **AV**: Symphono [sessions.semjs.org](http://sessions.semjs.org)
 - **SWAG**: Greenlancer
 

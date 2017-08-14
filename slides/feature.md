@@ -1,3 +1,3 @@
 ## Featured talk
-### Building a React Native App with Swagger and Couchbase Mobile
-#### Hod Greely
+### Deployed in 60 Seconds: Up and Running with the Angular CLI
+#### Stephen Cavaliere

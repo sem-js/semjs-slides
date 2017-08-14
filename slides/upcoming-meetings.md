@@ -1,7 +1,7 @@
 ## new SEM.js();
 ### 2nd Monday of every month -- 6:00 PM
 
-** August 14th ** Angular CLI with Stephen Cavaliere
+** September 11th ** TypeScript: The How AND the Why with Jonathan "J." Tower
 <br/>
 <br/>
 
