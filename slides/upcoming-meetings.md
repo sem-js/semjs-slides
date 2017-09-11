@@ -1,7 +1,7 @@
 ## new SEM.js();
 ### 2nd Monday of every month -- 6:00 PM
 
-** September 11th ** TypeScript: The How AND the Why with Jonathan "J." Tower
+** October 9th ** GraphQL: Flexible APIs for Adaptive Clients with Brian Genisio
 <br/>
 <br/>
 
