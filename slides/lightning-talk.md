@@ -1,3 +1,3 @@
 ## Lightning Talk
-### Components from a Designers Perspective
-#### Charles Givens
+### Asking Better Questions
+#### James Kruth

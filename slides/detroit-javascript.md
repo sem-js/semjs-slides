@@ -1,5 +1,5 @@
 ## Detroit JavaScript
-### Tuesday, September 26th at Detroit Labs
-#### Hosted by Steve
+### Tuesday, October 10th
+#### Hosted by Steve Barman
 
-GraphQL: Flexible APIs for Adaptive Clients with Brian Genesio
+Bevera.JS - Social Meetup at the Keep
