@@ -1,7 +1,7 @@
 ## new SEM.js();
 ### 2nd Monday of every month -- 6:00 PM
 
-** October 9th ** GraphQL: Flexible APIs for Adaptive Clients with Brian Genisio
+** November 13th ** VUE.js with Jacob Bolton
 <br/>
 <br/>
 
