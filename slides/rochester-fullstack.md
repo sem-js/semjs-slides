@@ -1,5 +1,5 @@
 ## Rochester Full Stack (RFS)
-### Tuesday, October 10th at Rochester Fire Department
+### Tuesday, November 14th at the Rochester Fire Department
 #### Hosted by Caroline Spencer and friends
 
-RFS October - Trivia Night!
+Let's code together - An introduction to functional programming with Mark LeMerise

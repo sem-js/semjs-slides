@@ -1,3 +1,3 @@
 ## Featured talk
-### GraphQL: Flexible APIs for Adaptive Clients
-#### Brian Genisio
+### Vue.js, an alternative to Angular and React
+#### Jacob Bolton
