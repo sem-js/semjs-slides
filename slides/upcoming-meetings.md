@@ -1,7 +1,7 @@
 ## new SEM.js();
 ### 2nd Monday of every month -- 6:00 PM
 
-** November 13th ** VUE.js with Jacob Bolton
+** December 11th ** Intro to ELM with Mike Onslow
 <br/>
 <br/>
 

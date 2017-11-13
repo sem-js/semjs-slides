@@ -4,7 +4,7 @@
 - Dennis Burton
 - Miguel Castillo
 - John Chapman
-- Danielle Closs
+- Jennifer Scroggins
 - Ryan Lanciaux
 - Matt Morgan
 - Ian VanSchooten

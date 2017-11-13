@@ -1,5 +1,5 @@
 ## Detroit JavaScript
-### Tuesday, October 10th
+### Wednesday, November 15th
 #### Hosted by Steve Barman
 
 Bevera.JS - Social Meetup at the Keep

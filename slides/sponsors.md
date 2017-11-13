@@ -1,7 +1,7 @@
 ##  Sponsors
 
 - **Location**: Barracuda Networks
-- **Food**: FarmLogs
+- **Food**: X by 2
 - **AV**: Symphono [sessions.semjs.org](http://sessions.semjs.org)
 - **SWAG**: Greenlancer
 

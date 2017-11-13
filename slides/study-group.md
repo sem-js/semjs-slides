@@ -1,5 +1,5 @@
 ## Study Group
-### October 23rd at The Forge
-#### Hosted by Danielle Closs and Matt Morgan
+### December 4th at The Forge
+#### Hosted by Jennifer Scroggins and Matt Morgan
 
 study@semjs.org
