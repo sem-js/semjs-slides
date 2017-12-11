@@ -1,7 +1,11 @@
 ## new SEM.js();
-### 2nd Monday of every month -- 6:00 PM
+### 2nd Monday of every month - 6:00 PM
 
-** December 11th ** Intro to ELM with Mike Onslow
+** January 8th **
+
+- Ryan Lanciaux - Algorithms for frontend developers - 30 mins
+- Miguel Castillo - CS idioms and concepts - 30 mins
+
 <br/>
 <br/>
 

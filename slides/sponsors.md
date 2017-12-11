@@ -1,7 +1,7 @@
 ##  Sponsors
 
-- **Location**: Barracuda Networks
-- **Food**: X by 2
+- **Location**: Pillar Technology
+- **Food**: Pillar Technology
 - **AV**: Symphono [sessions.semjs.org](http://sessions.semjs.org)
 - **SWAG**: Greenlancer
 
