@@ -1,10 +1,9 @@
 ## new SEM.js();
 ### 2nd Monday of every month - 6:00 PM
 
-** January 8th **
+** February 12th **
 
-- Ryan Lanciaux - Algorithms for frontend developers - 30 mins
-- Miguel Castillo - CS idioms and concepts - 30 mins
+- Eric Stevens - Polymer + Firebase
 
 <br/>
 <br/>
