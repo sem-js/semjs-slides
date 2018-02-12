@@ -1,9 +1,9 @@
 ## new SEM.js();
 ### 2nd Monday of every month - 6:00 PM
 
-** February 12th **
+** March 12th **
 
-- Eric Stevens - Polymer + Firebase
+- Matt Behrens - Electron in the Real World (CodeMash)
 
 <br/>
 <br/>
