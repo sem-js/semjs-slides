@@ -1,7 +1,11 @@
-## semjs Birthday Bash this coming May!
-#### Request for talks. If you have any interest in giving a lighting talk, this is a perfect opportunity.
+## SEM.js 5th Birthday Bash
+### May 21 - Lightning talks!
 
 <br/>
+10 topics
+<br/>
+5 minutes each
+
 <br/>
 
 speakers@semjs.org

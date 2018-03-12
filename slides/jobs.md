@@ -1,5 +1,5 @@
-## Jobs
+## [jobs@semjs.org](mailto://jobs@semjs.org)
 
-![Languages](../assets/languages.jpg)
+<img src='../assets/satisfaction.png' height='500px'/>
 
-[jobs@semjs.org](mailto://jobs@semjs.org)
+([Stack Overflow developer survey 2017](https://insights.stackoverflow.com/survey/2017#employment))
