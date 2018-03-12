@@ -1,3 +1,3 @@
 ## Lightning Talk
-### Asking Better Questions
-#### James Kruth
+### AWS Lambda in 5 minutes with Apex Up
+#### Matt Morgan
