@@ -1,2 +1,4 @@
-## Featured talks
-#### Polymer and Firebase with Eric Stevens.
+## Featured talk
+
+### Electron in the Real World
+#### Matt Behrens
