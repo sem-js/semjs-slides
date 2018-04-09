@@ -1,8 +1,8 @@
 ##  Sponsors
 
-- **Location**: Duo Security
-- **Food**: Vaco
-- **AV**: Symphono [sessions.semjs.org](http://sessions.semjs.org)
+- **Location**: Barracuda
+- **Food**: Detroit Labs
+- **AV**: Looking for volunteers/sponsors
 - **SWAG**: Greenlancer
 
 <br />

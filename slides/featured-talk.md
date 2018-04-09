@@ -1,4 +1,4 @@
 ## Featured talk
 
-### Electron in the Real World
-#### Matt Behrens
+### ASTronomically Improving Your </br> Developer Experience </br> (An Abstract Syntax Trees Primer)
+#### Bernardo Pacheco
