@@ -1,7 +1,7 @@
 ##  Sponsors
 
 - **Location**: Pillar
-- **Food**: Atomic Object
+- **Food**: Atomic Object - https://bit.ly/2IHGsin
 - **AV**: Daniel Mendez / Barracuda
 - **Cupcakes**: Microsoft TEALS
 
