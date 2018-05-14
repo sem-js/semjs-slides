@@ -1,13 +1,13 @@
 ## Organizers
 
-- Maddy Andrade
-- Dennis Burton
-- Miguel Castillo
-- John Chapman
-- Jennifer Scroggins
-- Ryan Lanciaux
-- Matt Morgan
-- Ian VanSchooten
+- Jobs: Maddy Andrade
+- Location: Dennis Burton
+- AV: John Chapman
+- Study Group: Jennifer Scroggins
+- Speakers: Ryan Lanciaux
+- Sponsors & Study Group: Matt Morgan
+- Misc: Miguel Castillo
+- Intros: Ian VanSchooten
 
 <br />
 

@@ -1,7 +1,8 @@
 ## SEMjs Study Group
 ### 4th Monday of every month - 6:00 PM
+<br/>
 
-### April 23th at The Forge
-#### Hosted by Matt Morgan and Jennifer Scroggins
+### May 28th - CANCELLED for Memorial Day
+
 
 study@semjs.org
