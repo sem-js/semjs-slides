@@ -1,4 +1,8 @@
-## Featured talk
+## ~~Featured talk~~
 
-### ASTronomically Improving Your </br> Developer Experience </br> (An Abstract Syntax Trees Primer)
-#### Bernardo Pacheco
+## Lightning talks!
+
+<br/>
+10 topics
+<br/>
+5 minutes each

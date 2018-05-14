@@ -1,9 +1,9 @@
 ##  Sponsors
 
-- **Location**: Barracuda
-- **Food**: Detroit Labs
-- **AV**: Looking for volunteers/sponsors
-- **SWAG**: Greenlancer
+- **Location**: Pillar
+- **Food**: Atomic Object
+- **AV**: Daniel Mendez / Barracuda
+- **Cupcakes**: Microsoft TEALS
 
 <br />
 sponsors@semjs.org
