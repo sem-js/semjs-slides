@@ -1,9 +1,8 @@
 ##  Sponsors
 
 - **Location**: Pillar
-- **Food**: Atomic Object - https://bit.ly/2IHGsin
+- **Food**: Pillar
 - **AV**: Daniel Mendez / Barracuda
-- **Cupcakes**: Microsoft TEALS
 
 <br />
 sponsors@semjs.org
