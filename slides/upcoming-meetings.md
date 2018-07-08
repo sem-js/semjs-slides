@@ -2,7 +2,7 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** July 9 - Serverless Applications with NodeJS with Nicholas Klick **
+** August 13 - Cypress with Jeff Sallans **
 
 <br/>
 <br/>
