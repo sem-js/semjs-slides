@@ -2,7 +2,7 @@
 ### 4th Monday of every month - 6:00 PM
 <br/>
 
-### June 25th at The Forge
+### July 23rd at The Forge
 #### Hosted by Jennifer Scroggins and Matt Morgan
 
 

@@ -1,4 +1,4 @@
 ## Featured talk
 
-### Buuuuugs iiiiin Spaaaaace!!!!
-#### Colin Fulton
+### Serverless Applications with NodeJS
+#### Nicholas Klick

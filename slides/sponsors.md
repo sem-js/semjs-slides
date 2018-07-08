@@ -1,7 +1,7 @@
 ##  Sponsors
 
-- **Location**: Pillar
-- **Food**: Pillar
+- **Location**: Barracuda
+- **Food**: Beacon Hill
 - **AV**: Daniel Mendez / Barracuda
 
 <br />
