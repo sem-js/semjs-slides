@@ -2,7 +2,7 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** August 13 - Cypress with Jeff Sallans **
+** September 10 - Accessible JavaScript: A Practical Guide with Colin Fulton **
 
 <br/>
 <br/>

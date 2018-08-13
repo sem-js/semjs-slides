@@ -1,4 +1,4 @@
 ## Featured talk
 
-### Serverless Applications with NodeJS
-#### Nicholas Klick
+### Impress with Cypress: Browser automation with a time-travel GUI
+#### Jeff Sallans
