@@ -1,8 +1,7 @@
 ##  Sponsors
 
-- **Location**: Duo
-- **Food**: Nutshell
-- **AV**: Daniel Mendez / Barracuda
+- **Location**: Pillar
+- **Food**: Matterhorn
 - **Giveaways**: JetBrains
 
 <br />

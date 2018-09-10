@@ -2,7 +2,7 @@
 ### 4th Monday of every month - 6:00 PM
 <br/>
 
-### August 27th at The Forge
+### September 24th at The Forge
 #### Hosted by Jennifer Scroggins
 
 
