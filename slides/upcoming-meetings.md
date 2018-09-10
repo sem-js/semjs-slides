@@ -2,7 +2,7 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** September 10 - Accessible JavaScript: A Practical Guide with Colin Fulton **
+** October 8 - Simplifying Data Flow In React Applications with Scott Sanzenbacher **
 
 <br/>
 <br/>

@@ -1,4 +1,4 @@
 ## Featured talk
 
-### Impress with Cypress: Browser automation with a time-travel GUI
-#### Jeff Sallans
+### Accessible JavaScript: A Practical Guide
+#### Colin Fulton
