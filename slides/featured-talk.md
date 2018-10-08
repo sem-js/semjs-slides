@@ -1,4 +1,4 @@
 ## Featured talk
 
-### Accessible JavaScript: A Practical Guide
-#### Colin Fulton
+### Simplifying Data Flow In React Applications
+#### Scott Sanzenbacher

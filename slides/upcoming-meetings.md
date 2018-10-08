@@ -2,7 +2,11 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** October 8 - Simplifying Data Flow In React Applications with Scott Sanzenbacher **
+** November 12 - Two 30 min talks **
+
+1. Vue.js Development Tools and Dev Experience with Brandon Lyons
+
+2. <???> with you?
 
 <br/>
 <br/>

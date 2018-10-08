@@ -1,7 +1,7 @@
 ##  Sponsors
 
-- **Location**: Pillar
-- **Food**: Matterhorn
+- **Location**: Barracuda
+- **Food**: Vaco
 - **Giveaways**: JetBrains
 
 <br />

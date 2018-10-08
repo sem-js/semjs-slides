@@ -1,3 +1,3 @@
 ## Lightning Talk
-### HyperLedger (smart contracts on Blockchain) & JavaScript
-#### Björn Simon
+### Interview Tips From an Unhireable
+#### Jay Wren
