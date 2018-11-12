@@ -2,11 +2,10 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** November 12 - Two 30 min talks **
+** December 10 **
 
-1. Vue.js Development Tools and Dev Experience with Brandon Lyons
-
-2. <???> with you?
+An Introduction to WebAssembly
+with Guy Royse
 
 <br/>
 <br/>
