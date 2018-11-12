@@ -1,5 +1,6 @@
 ## Organizers
 
+- AV: John Chapman
 - Jobs: Maddy Andrade
 - Study Group: Jennifer Scroggins & Mohammed Abouzahr
 - Speakers: Ryan Lanciaux

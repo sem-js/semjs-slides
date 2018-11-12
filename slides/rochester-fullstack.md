@@ -1,6 +1,6 @@
 ## Rochester Full Stack (RFS)
-### Tomorrow at the Rochester Fire Department
+<br/>
 
-Trivia Night!
+** This Wed, Nov 14 at the Rochester Fire Dept**
 
-Questions will cover a wide range of Tech, Pop-Culture, and some random trivia.
+Non Alpha-Numeric JavaScript

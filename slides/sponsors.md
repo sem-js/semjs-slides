@@ -1,7 +1,8 @@
 ##  Sponsors
 
-- **Location**: Barracuda
-- **Food**: Vaco
+- **Location**: Duo / Cisco
+- **AV** Symphono / John Chapman
+- **Food**: Alfa Jango
 - **Giveaways**: JetBrains
 
 <br />
