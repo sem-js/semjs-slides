@@ -1,3 +1,3 @@
 ## Lightning Talk
-### Interview Tips From an Unhireable
-#### Jay Wren
+### Serverless: Up and Running
+#### Jim Hall

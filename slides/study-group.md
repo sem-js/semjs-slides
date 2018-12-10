@@ -2,7 +2,7 @@
 ### USUALLY 4th Monday of every month - 6:00 PM
 <br/>
 
-### Dec 3rd at The Forge
+### * Not * December 24th
 #### Hosted by Jennifer Scroggins & Mohammed Abouzahr
 
 

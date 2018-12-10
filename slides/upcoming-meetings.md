@@ -2,10 +2,12 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** December 10 **
+** January 14 **
 
-An Introduction to WebAssembly
-with Guy Royse
+The Great Gatsby: Building Fast Static Sites in React
+with Kevin Marsh
+
+@ Barracuda
 
 <br/>
 <br/>

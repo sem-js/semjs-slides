@@ -1,9 +1,9 @@
 ##  Sponsors
 
-- **Location**: Duo / Cisco
-- **AV** Symphono / John Chapman
-- **Food**: Alfa Jango
-- **Giveaways**: JetBrains
+- **Location**: Pillar
+- **AV** Symphono
+- **Food**: Pillar
+- **Giveaways**: JetBrains & Greenlancer
 
 <br />
 sponsors@semjs.org
