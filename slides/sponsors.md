@@ -1,8 +1,8 @@
 ##  Sponsors
 
-- **Location**: Pillar
+- **Location**: Barracuda
 - **AV** Symphono
-- **Food**: Pillar
+- **Food**: Domino's Pizza
 - **Giveaways**: JetBrains & Greenlancer
 
 <br />
