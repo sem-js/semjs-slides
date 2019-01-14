@@ -1,8 +1,8 @@
 ## SEMjs Study Group
-### USUALLY 4th Monday of every month - 6:00 PM
+### 4th Monday of every month - 6:00 PM
 <br/>
 
-### * Not * December 24th
+### January 28th
 #### Hosted by Jennifer Scroggins & Mohammed Abouzahr
 
 

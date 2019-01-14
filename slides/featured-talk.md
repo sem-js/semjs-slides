@@ -1,4 +1,4 @@
 ## Featured talk
 
-### An Introduction to WebAssembly
-#### Guy Royse
+### The Great Gatsby: Building Fast Static Sites in React
+#### Kevin Marsh
