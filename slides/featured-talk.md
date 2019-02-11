@@ -1,4 +1,4 @@
 ## Featured talk
 
-### The Great Gatsby: Building Fast Static Sites in React
-#### Kevin Marsh
+### Scalability Dynamics: Hard truths on productivity and how JavaScript can save us
+#### Andrew Smith
