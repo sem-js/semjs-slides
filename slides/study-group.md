@@ -2,7 +2,7 @@
 ### 4th Monday of every month - 6:00 PM
 <br/>
 
-### January 28th
+### February 25th
 #### Hosted by Jennifer Scroggins & Mohammed Abouzahr
 
 

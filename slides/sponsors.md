@@ -1,8 +1,8 @@
 ##  Sponsors
 
-- **Location**: Barracuda
+- **Location**: ITHAKA
 - **AV** Symphono
-- **Food**: Domino's Pizza
+- **Food**: ITHAKA
 - **Giveaways**: JetBrains & Greenlancer
 
 <br />
