@@ -1,3 +1,3 @@
 ## Lightning Talk
-### Serverless: Up and Running
-#### Jim Hall
+### Intro to React Hooks
+#### Orlondo Rue

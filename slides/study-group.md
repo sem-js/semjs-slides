@@ -2,7 +2,7 @@
 ### 4th Monday of every month - 6:00 PM
 <br/>
 
-### February 25th
+### March 25th @ FarmLogs
 #### Hosted by Jennifer Scroggins & Mohammed Abouzahr
 
 

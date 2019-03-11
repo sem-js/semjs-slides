@@ -2,9 +2,13 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** March 11 **
+** April 8 **
 
-Regular Expressions in JavaScript with Henry Marshall
+Sourcemaps - with James Kruth
+<br/><br/>
+** May 13 **
+
+Getting Acquainted with GraphQL - with Eve Porcello
 
 <br/>
 <br/>
