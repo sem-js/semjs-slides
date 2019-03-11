@@ -1,4 +1,4 @@
 ## Featured talk
 
-### Scalability Dynamics: Hard truths on productivity and how JavaScript can save us
-#### Andrew Smith
+### Intro to Regex: Bend Text to Your Whim
+#### Henry Marshall

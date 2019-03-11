@@ -1,8 +1,8 @@
 ##  Sponsors
 
-- **Location**: ITHAKA
+- **Location**: Pillar Technology
 - **AV** Symphono
-- **Food**: ITHAKA
+- **Food**: Pillar Technology
 - **Giveaways**: JetBrains & Greenlancer
 
 <br />
