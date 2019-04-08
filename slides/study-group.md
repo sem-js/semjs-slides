@@ -2,7 +2,7 @@
 ### 4th Monday of every month - 6:00 PM
 <br/>
 
-### March 25th @ FarmLogs
+### April 22nd @ Pillar
 #### Hosted by Jennifer Scroggins & Mohammed Abouzahr
 
 

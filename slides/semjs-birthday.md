@@ -1,5 +1,5 @@
-## SEM.js 5th Birthday Bash
-### May 21 - Lightning talks!
+## SEM.js 6th Birthday Bash
+### June 10 - Lightning talks!
 
 <br/>
 10 topics

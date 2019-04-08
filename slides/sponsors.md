@@ -1,8 +1,8 @@
 ##  Sponsors
 
-- **Location**: Pillar Technology
+- **Location**: Barracuda
 - **AV** Symphono
-- **Food**: Pillar Technology
+- **Food**: Beacon Hill
 - **Giveaways**: JetBrains & Greenlancer
 
 <br />
