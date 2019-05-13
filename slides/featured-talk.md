@@ -1,4 +1,4 @@
 ## Featured talk
 
-### Exploring Source Maps
-#### James Kruth
+### Getting Acquainted with GraphQL
+#### Eve Porcello

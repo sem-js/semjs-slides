@@ -1,3 +1,3 @@
 ## Lightning Talk
-### Intro to React Hooks
-#### Orlondo Rue
+### A lightning Talk on Lightning Talks
+#### Ryan Lanciaux

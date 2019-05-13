@@ -1,11 +1,13 @@
-## SEM.js 6th Birthday Bash
-### June 10 - Lightning talks!
+### Next Month - ⚡ Lightning talks!
 
 <br/>
-10 topics
-<br/>
-5 minutes each
+10 topics - 5 minutes each
+
+- Single key takeaway
+- Not much code (if any)
+- Time yourself practicing
+- Have fun! 🎉
 
 <br/>
+Submission form: **semjs.netlify.com**
 
-speakers@semjs.org

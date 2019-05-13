@@ -1,9 +1,9 @@
 ##  Sponsors
 
-- **Location**: Barracuda
+- **Location**: Atomic Object
 - **AV** Symphono
-- **Food**: Beacon Hill
-- **Giveaways**: JetBrains & Greenlancer
+- **Food**: Detroit Labs
+- **Giveaways**: JetBrains
 
 <br />
 sponsors@semjs.org
