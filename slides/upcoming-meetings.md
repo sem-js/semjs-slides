@@ -2,13 +2,9 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** April 8 **
+** June 10 **
 
-Sourcemaps - with James Kruth
-<br/><br/>
-** May 13 **
-
-Getting Acquainted with GraphQL - with Eve Porcello
+SEM.js 6th Birthday - with You!
 
 <br/>
 <br/>

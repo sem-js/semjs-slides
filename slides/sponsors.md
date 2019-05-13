@@ -1,9 +1,9 @@
 ##  Sponsors
 
-- **Location**: Pillar Technology
+- **Location**: Atomic Object
 - **AV** Symphono
-- **Food**: Pillar Technology
-- **Giveaways**: JetBrains & Greenlancer
+- **Food**: Detroit Labs
+- **Giveaways**: JetBrains
 
 <br />
 sponsors@semjs.org

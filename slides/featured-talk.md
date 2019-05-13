@@ -1,4 +1,4 @@
 ## Featured talk
 
-### Intro to Regex: Bend Text to Your Whim
-#### Henry Marshall
+### Getting Acquainted with GraphQL
+#### Eve Porcello
