@@ -2,9 +2,9 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** June 10 **
+** July 8 **
 
-SEM.js 6th Birthday - with You!
+Websockets and Methods for Real-Time Data Streaming - with Steve Schwartz
 
 <br/>
 <br/>
