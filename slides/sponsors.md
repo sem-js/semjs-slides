@@ -1,9 +1,9 @@
 ##  Sponsors
 
-- **Location**: Atomic Object
+- **Location**: Accenture
+- **Food**: Accenture
 - **AV** Symphono
-- **Food**: Detroit Labs
-- **Giveaways**: JetBrains
+- **Cupcakes**: Nutshell
 
 <br />
 sponsors@semjs.org

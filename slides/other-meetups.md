@@ -1,16 +1,12 @@
 ## Other Meetups
 <br/>
 
-### Rochester Fullstack - May 14
-APIs for Beginners by Dea Crittenden
+### Rochester Fullstack - June 11
+GET more out of APIs with Caroline Jobe
 
 <br/>
 
-### AnnArbor.jsx - May 14
-JSX & JSX Alternatives by Max Dubrinsky
+### AnnArbor.jsx - June 18
+Resilient, Reactive UIs with Statecharts with David Khourshid
 
-<br/>
-
-### Ann Arbor Ruby Brigade - May 28
-Rust from a Rubyist's Perspective by Patrick McSweeny
 <br/>

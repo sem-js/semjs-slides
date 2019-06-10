@@ -2,7 +2,7 @@
 ### 4th Monday of every month - 6:00 PM
 <br/>
 
-### May 27th @ FarmLogs
+### June 24th @ The Forge
 #### Hosted by Jennifer Scroggins & Mohammed Abouzahr
 
 
