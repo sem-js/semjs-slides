@@ -1,4 +1,4 @@
-## [jobs@semjs.org](mailto://jobs@semjs.org)
+## 💼 [jobs@semjs.org](mailto://jobs@semjs.org)
 
 <img src='../assets/looking.png' width='960px'/>
 

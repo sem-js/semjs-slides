@@ -1,8 +1,8 @@
-## SEMjs Study Group
+## 📚 SEMjs Study Group
 ### 4th Monday of every month - 6:00 PM
 <br/>
 
-### June 24th @ The Forge
+### June 22nd @ ITHAKA
 #### Hosted by Jennifer Scroggins & Mohammed Abouzahr
 
 

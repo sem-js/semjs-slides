@@ -1,4 +1,4 @@
-## Organizers
+## 🕴 Organizers
 
 - AV: John Chapman
 - Jobs: Maddy Andrade

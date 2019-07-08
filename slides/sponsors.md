@@ -1,9 +1,8 @@
-##  Sponsors
+##  💵 Sponsors
 
-- **Location**: Accenture
-- **Food**: Accenture
+- **Location**: Barracuda
+- **Food**: APTIV
 - **AV** Symphono
-- **Cupcakes**: Nutshell
 
 <br />
 sponsors@semjs.org
