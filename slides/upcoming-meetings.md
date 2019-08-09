@@ -2,9 +2,14 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** August 12 **
+** September 9 - Double-Header **
 
-Web Components - with Manuel Rueda
+*Eleventy ways to solve one problem - with Leo Generali*
+
+<br/>
+
+*NestJS - with Aaron Harper*
+
 
 <br/>
 <br/>
