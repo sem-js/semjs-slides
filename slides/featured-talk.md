@@ -1,4 +1,13 @@
+## ⚡ Lightning Talk
+
+### Automatic Semicolon Insertion: Rules & Gotchas
+
+#### Brandon Lyons
+
+<br/>
+
 ## 🎬 Featured Talk
 
-### Websockets and Methods for Real-Time Data Streaming
-#### Steve Schwartz
+### Web Components: (Not) The Silver Bullet
+
+#### Manuel Rueda

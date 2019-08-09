@@ -1,19 +1,20 @@
 ## 🤝 Other Meetups
 <br/>
 
-### Rochester Fullstack - July 9
-How to build an Indie Game IDE with Spencer Jobe
+### Rochester Fullstack - August 13
+Beer Up 🍻
 
 <br/>
 
-### Michigan Python Users Group - July 11
+### PyData - August 14
+When Data Science Projects Fail - Jacqueline Nolis
 
 
 <br/>
-### Ann Arbor Ruby Brigade - July 30
-A Garbage Collection Choose-Your-Own-Adventure with Colin Fulton
+### AnnArbor.jsx - August 26
+Constraints of our own Design (System) - Maja Wichrowska
 
 <br/>
-### Coffee House Coders - Aug 7
+### Coffee House Coders - September 4
 
 <br/>
