@@ -1,20 +1,21 @@
 ## 🤝 Other Meetups
 <br/>
 
-### Rochester Fullstack - August 13
-Beer Up 🍻
+### Rochester Fullstack - September 10
+Trivia Night! 🤔💡🧠
 
 <br/>
 
-### PyData - August 14
-When Data Science Projects Fail - Jacqueline Nolis
-
-
-<br/>
-### AnnArbor.jsx - August 26
-Constraints of our own Design (System) - Maja Wichrowska
+### tech[inclusive] - September 10
+Microaggressions in the Workplace - Megan Boczar
 
 <br/>
-### Coffee House Coders - September 4
+
+### TechLife Ann Arbor - September 14
+Code Craftsman Saturdays - a Deep Dive w/ Henry Beitz
+
+<br/>
+
+### Coffee House Coders - September 18
 
 <br/>
