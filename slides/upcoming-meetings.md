@@ -2,13 +2,16 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** September 9 - Double-Header **
+** October 12 - 🎃 Hacktoberfest **
 
-*Eleventy ways to solve one problem - with Leo Generali*
 
 <br/>
 
-*NestJS - with Aaron Harper*
+Learn about open source!
+
+Hear from local maintainers!
+
+Earn a T-Shirt!
 
 
 <br/>

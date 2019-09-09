@@ -1,13 +1,12 @@
-## ⚡ Lightning Talk
+## 🎬 Featured Talks
 
-### Automatic Semicolon Insertion: Rules & Gotchas
+### NestJS: Intro to REST and Data Persistence
 
-#### Brandon Lyons
+#### Aaron Harper
 
 <br/>
 
-## 🎬 Featured Talk
+###  Eleventy Ways to Solve One Problem: A Gentle Introduction to Static Site Generation
 
-### Web Components: (Not) The Silver Bullet
+#### Leo Generali
 
-#### Manuel Rueda
