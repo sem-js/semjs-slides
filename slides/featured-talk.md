@@ -1,12 +1,17 @@
-## 🎬 Featured Talks
+## 🎬 Featured Talk
 
-### NestJS: Intro to REST and Data Persistence
+### Intro to Hacktoberfest and GitHub
 
-#### Aaron Harper
+#### Ryan Lanciaux
 
 <br/>
 
-###  Eleventy Ways to Solve One Problem: A Gentle Introduction to Static Site Generation
+### Project Descriptions
 
-#### Leo Generali
+#### Local Maintainers
 
+<br/>
+
+### Hacktime!
+
+#### Everyone

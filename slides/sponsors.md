@@ -1,9 +1,9 @@
 ##  💵 Sponsors
 
-- **Location**: Accenture
-- **Food**: Accenture
+- **Location**: Barracuda
+- **Food**: Hearst Autos
 - **AV** Symphono
-- **Giveaways** JetBrains
+- **Giveaways** JetBrains, Digital Ocean, GitHub, DEV
 
 <br />
 sponsors@semjs.org
