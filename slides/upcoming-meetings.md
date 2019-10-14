@@ -2,17 +2,7 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** October 12 - 🎃 Hacktoberfest **
-
-
-<br/>
-
-Learn about open source!
-
-Hear from local maintainers!
-
-Earn a T-Shirt!
-
+** November 11 - Get Progressive with it with Matt LaForest **
 
 <br/>
 <br/>
