@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "devDependencies": {
-    "bower": "^1.7.9",
+    "bower": "^1.8.8",
     "coffeelint": "^1.15.0",
     "grunt": "^0.4.5",
     "grunt-build-control": "^0.2.2",
