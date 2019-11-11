@@ -1,27 +1,20 @@
 ## 🤝 Other Meetups
 <br/>
 
-### A2Go - Tues, Oct 15
-Monthly Meeting
+### AnnArbor.jsx - Tues, Nov 12
+React Concurrent Mode with Phil Middleton
 
 <br/>
 
-### Rochester Fullstack - Mon, Oct 21
-Trivia Night! 🤔💡🧠
+### Rochester Fullstack - Mon, Nov 18
+Bend Text to Your Whim with Stripe's Henry Marshall
 
 <br/>
 
-### tech[inclusive] - Wed, Oct 23
-Speed Mentoring with Nexient ($5)
+### A2GO - Tues, Nov 19
+Monthly A2Go Meeting -- 10 year anniversary of Go!
 
 <br/>
 
-### TechLife Ann Arbor - Wed, Nov 6
-No/Low-Code Platforms 101 with Dominic Rea
-
-<br/>
-
-### AA Software Co-Workers - Fri, Oct 18
-Weekly meeting at Sweetwaters
-
-<br/>
+### Detroit React User Group - Tues, Nov 19
+Cooking up better applications with Ryan Lanciaux

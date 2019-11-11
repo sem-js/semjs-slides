@@ -2,7 +2,7 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** November 11 - Get Progressive with it with Matt LaForest **
+** December 9 - Storybook Driven Development with Chris Cain **
 
 <br/>
 <br/>
