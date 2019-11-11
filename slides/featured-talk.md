@@ -1,17 +1,6 @@
 ## 🎬 Featured Talk
 
-### Intro to Hacktoberfest and GitHub
+### Get Progressive with it
 
-#### Ryan Lanciaux
+#### Matt LaForest
 
-<br/>
-
-### Project Descriptions
-
-#### Local Maintainers
-
-<br/>
-
-### Hacktime!
-
-#### Everyone

@@ -1,9 +1,11 @@
 ##  💵 Sponsors
 
-- **Location**: Barracuda
-- **Food**: Hearst Autos
+<img src='../assets/ao.png' width='480px'/>
+
+- **Location**: Atomic Object
+- **Food**: Atomic Object
 - **AV** Symphono
-- **Giveaways** JetBrains, Digital Ocean, GitHub, DEV
+- **Giveaways** JetBrains
 
 <br />
 sponsors@semjs.org
