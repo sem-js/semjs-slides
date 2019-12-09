@@ -2,7 +2,7 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** December 9 - Storybook Driven Development with Chris Cain **
+** January 13 - TBD **
 
 <br/>
 <br/>

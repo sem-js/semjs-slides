@@ -1,7 +1,7 @@
 ## CodeMash
-#### Jan 8 - 11
+#### Jan 7 - 10
 
 - Largest regional tech conference
 - Sandusky, Ohio
-- Tickets on sale today
+- Tickets on sale
 - https://www.codemash.org/

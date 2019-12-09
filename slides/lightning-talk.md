@@ -1,3 +1,3 @@
-## Lightning Talk
-### A lightning Talk on Lightning Talks
-#### Ryan Lanciaux
+## ⚡️ Lightning Talk
+### 3D JavaScript interactive learning tools
+#### Joe Engalan

@@ -1,6 +1,5 @@
 ## 🎬 Featured Talk
 
-### Get Progressive with it
+### Storybook Driven Development
 
-#### Matt LaForest
-
+#### Chris Cain
