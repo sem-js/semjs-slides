@@ -2,7 +2,7 @@
 ### 4th Monday of every month - 6:00 PM
 <br/>
 
-### November 25 @ ITHAKA
+### Jan 27 @ ITHAKA
 #### Hosted by Jennifer Scroggins & Mohammed Abouzahr
 
 
