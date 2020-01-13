@@ -2,7 +2,7 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** January 13 - TBD **
+** February 10 - You Might Not Need Webpack - with Ryan Lanciaux **
 
 <br/>
 <br/>
