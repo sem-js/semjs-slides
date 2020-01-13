@@ -1,20 +1,15 @@
 ## 🤝 Other Meetups
 <br/>
 
-### AnnArbor.jsx - Tues, Nov 12
-React Concurrent Mode with Phil Middleton
+### Rochester Fullstack - Tues, Jan 14
+Pipes, Tubes, and the Magic of the Internet
 
 <br/>
 
-### Rochester Fullstack - Mon, Nov 18
-Bend Text to Your Whim with Stripe's Henry Marshall
+### A2GO - Tues, Jan 21
+Month 1: Let's Build an App Together with Go (workshop series)
 
 <br/>
 
-### A2GO - Tues, Nov 19
-Monthly A2Go Meeting -- 10 year anniversary of Go!
-
-<br/>
-
-### Detroit React User Group - Tues, Nov 19
-Cooking up better applications with Ryan Lanciaux
+### TechLife Ann Arbor - Wed, Feb 5
+AACS: Mailinator.com - Scaling to millions of emails per day with Paul Tyma
