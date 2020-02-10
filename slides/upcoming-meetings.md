@@ -2,7 +2,7 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** February 10 - You Might Not Need Webpack - with Ryan Lanciaux **
+** March 9 - Vue from the Top: an Introduction to Vue.js - with Doug Lance **
 
 <br/>
 <br/>
