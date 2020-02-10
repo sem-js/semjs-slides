@@ -1,15 +1,20 @@
 ## 🤝 Other Meetups
 <br/>
 
-### Rochester Fullstack - Tues, Jan 14
-Pipes, Tubes, and the Magic of the Internet
+### Rochester Fullstack - Tues, Feb 11
+🕹️MicroEngine👾 - A web-based, retro game engine for mobile and desktop with Spencer Jobe
 
 <br/>
 
-### A2GO - Tues, Jan 21
-Month 1: Let's Build an App Together with Go (workshop series)
+### tech[inclusive] - Tues, Feb 11
+Gender & AI
 
 <br/>
 
-### TechLife Ann Arbor - Wed, Feb 5
-AACS: Mailinator.com - Scaling to millions of emails per day with Paul Tyma
+### AWS Michigan - Thurs, Feb 13
+Serverless with Thomas Knox
+
+<br/>
+
+### DetNode - Tues, Feb 18
+New in Node 12 at Detroit Meets Night of Meetups!

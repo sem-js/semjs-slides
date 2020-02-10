@@ -1,5 +1,5 @@
 ## 🎬 Featured Talk
 
-### From Flags to State Machines
+### You Might Not Need Webpack
 
-#### Patrik Csak
+#### Ryan Lanciaux
