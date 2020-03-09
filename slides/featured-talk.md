@@ -1,5 +1,5 @@
 ## 🎬 Featured Talk
 
-### You Might Not Need Webpack
+### Vue from the Top: An Introduction to Vue.js
 
-#### Ryan Lanciaux
+#### Doug Lance

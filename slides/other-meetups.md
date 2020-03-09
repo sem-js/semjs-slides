@@ -1,20 +1,20 @@
 ## 🤝 Other Meetups
 <br/>
 
-### Rochester Fullstack - Tues, Feb 11
-🕹️MicroEngine👾 - A web-based, retro game engine for mobile and desktop with Spencer Jobe
+### Rochester Fullstack - Tues, March 10
+📱✨🧐 Augmented Reality with AR.js - by Peter Guenther
 
 <br/>
 
-### tech[inclusive] - Tues, Feb 11
-Gender & AI
+### Bloom In Tech - Thurs, March 19
+Perfecting your Resume
 
 <br/>
 
-### AWS Michigan - Thurs, Feb 13
-Serverless with Thomas Knox
+### tech[inclusive] - Tues, March 24
+Seeing and Confronting Bias in the Workplace
 
 <br/>
 
-### DetNode - Tues, Feb 18
-New in Node 12 at Detroit Meets Night of Meetups!
+### AnnArbor.jsx - Tues, March 31
+Chris Boyer and Unit Testing with React Testing Library

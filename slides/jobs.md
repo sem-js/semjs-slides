@@ -1,5 +1,5 @@
 ## 💼 [jobs@semjs.org](mailto://jobs@semjs.org)
 
-<img src='../assets/looking.png' width='960px'/>
+<img src='../assets/glassdoor.png' width='960px'/>
 
-([Stack Overflow developer survey 2019](https://insights.stackoverflow.com/survey/2019#looking-for-a-job))
+([Glass door developer salaries](https://www.glassdoor.com/Salaries/ann-arbor-developer-salary-SRCH_IL.0,9_IM37_KO10,19.htm))
