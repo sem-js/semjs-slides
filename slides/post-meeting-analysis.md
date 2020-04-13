@@ -1,3 +1,2 @@
 ## 🍻 Post Meeting Analysis
-### Mash
-
+### Zoom and Discord

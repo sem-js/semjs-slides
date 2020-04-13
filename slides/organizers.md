@@ -1,7 +1,7 @@
 ## 🕴 Organizers
 
 - AV: John Chapman
-- Study Group: Jennifer Scroggins & Mohammed Abouzahr
+- Study Group: Aaron Harper
 - Speakers: Ryan Lanciaux
 - Sponsors: Brandon Lyons
 - Intros: Ian VanSchooten

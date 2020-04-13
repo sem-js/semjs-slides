@@ -1,20 +1,17 @@
 ## 🤝 Other Meetups
 <br/>
 
-### Rochester Fullstack - Tues, March 10
-📱✨🧐 Augmented Reality with AR.js - by Peter Guenther
+### Rochester Fullstack - Tues, April 14
+🚧✂️✨The Cutting Room Floor: Projects that didn't make it - with Spencer Jobe
 
 <br/>
 
-### Bloom In Tech - Thurs, March 19
-Perfecting your Resume
+### Thinkful Ann Arbor - Wed, April 15
+Thinkful Webinar | Build a Web App with JavaScript & jQuery
 
 <br/>
 
-### tech[inclusive] - Tues, March 24
-Seeing and Confronting Bias in the Workplace
+### Agile Groupies - Tues, April 21
+Agile/Scrum Foundations 2-Day PSM I Certification Class - Online
 
 <br/>
-
-### AnnArbor.jsx - Tues, March 31
-Chris Boyer and Unit Testing with React Testing Library
