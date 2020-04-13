@@ -1,9 +1,8 @@
 ##  💵 Sponsors
 
-- **Location**: Cahoots
-- **Food**: Beacon Hill
+<br />
 
-<br/>
+RIP this slide ☠️
 
 <br />
 sponsors@semjs.org

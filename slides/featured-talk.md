@@ -1,5 +1,5 @@
 ## 🎬 Featured Talk
 
-### Vue from the Top: An Introduction to Vue.js
+### Bringing Ionic (and Web Components) to React
 
-#### Doug Lance
+#### Mike Hartington

@@ -2,12 +2,10 @@
 ### 4th Monday of every month - 6:00 PM
 <br/>
 
-### March 23 @ TBD
-#### Hosted by Jennifer Scroggins & Mohammed Abouzahr
+### Next date TBD
+#### Hosted by Aaron Harper
 
 <br/>
-
-#### Be on the lookout for a survey
 
 <br/>
 
