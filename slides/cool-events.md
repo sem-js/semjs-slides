@@ -1,1 +1,1 @@
-## Any other cool events?
+## Any cool (online) events?
