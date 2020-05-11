@@ -1,5 +1,5 @@
 ## 🎬 Featured Talk
 
-### Bringing Ionic (and Web Components) to React
+### JavaScript: Past, Present, and Future
 
-#### Mike Hartington
+#### David Neal
