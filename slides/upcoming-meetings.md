@@ -2,7 +2,7 @@
 ### 2nd Monday of every month - 6:00 PM
 <br/>
 
-** June 8 **
+** July 13 **
 
 <br/>
 <br/>

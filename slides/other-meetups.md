@@ -1,17 +1,13 @@
 ## 🤝 Other Meetups
 <br/>
 
-### Rochester Fullstack - Tues, April 14
-🚧✂️✨The Cutting Room Floor: Projects that didn't make it - with Spencer Jobe
+### tech[inclusive] - Tues, June 9
+How to Build and Deploy a Blog using Nuxt.js
 
 <br/>
 
-### Thinkful Ann Arbor - Wed, April 15
-Thinkful Webinar | Build a Web App with JavaScript & jQuery
+### Coffee House Coders - Wed, June 10
+Ann Arbor Meetup ONLINE EDITION
 
 <br/>
 
-### Agile Groupies - Tues, April 21
-Agile/Scrum Foundations 2-Day PSM I Certification Class - Online
-
-<br/>
