@@ -1,5 +1,5 @@
 ## 🎬 Featured Talk
 
-### JavaScript: Past, Present, and Future
+### Crafting Testable JavaScript with Bob Fornal
 
-#### David Neal
+#### Bob Fornal

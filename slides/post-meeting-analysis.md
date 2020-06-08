@@ -1,2 +1,2 @@
 ## 🍻 Post Meeting Analysis
-### Zoom and Discord
+### Stick around on Zoom
