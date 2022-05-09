@@ -1,5 +1,5 @@
 ## 🎬 Featured Talk
 
-### Crafting Testable JavaScript with Bob Fornal
+### Creating a Web-Based Language Playground using React and TypeScript
 
-#### Bob Fornal
+#### Michael Tiller
