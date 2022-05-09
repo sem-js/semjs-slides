@@ -1,13 +1,13 @@
 ## 🤝 Other Meetups
-<br/>
-
-### tech[inclusive] - Tues, June 9
-How to Build and Deploy a Blog using Nuxt.js
 
 <br/>
 
-### Coffee House Coders - Wed, June 10
-Ann Arbor Meetup ONLINE EDITION
+### Ann Arbor Tech - Wed, June 1
+
+A Whirlwind Tour of Unsupervised Machine Learning Methods with Cameron Fen
 
 <br/>
 
+### Michigan TypeScript - Tues, June 7
+
+TS Code Gen for APIs, TS Codemods, Custom ESLint Rules

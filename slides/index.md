@@ -4,9 +4,8 @@
 
 ### Southeast Michigan JavaScript Usergroup
 
-- Twitter: @sem_js
-- Discord: discord.gg/T53fGX
+-   Twitter: @sem_js
+-   Discord: [discord.gg/T53fGX](https://discord.gg/qZwcrd6tsH)
 
-<!-- - **WiFi Name: ** <a href="wifi.html" id="wifiNameValue"></a>
-- **WiFi Password: ** <a href="wifi.html" id="wifiPasswordValue"></a> -->
-
+-   **WiFi Name: ** <a href="wifi.html" id="wifiNameValue"></a>
+-   **WiFi Password: ** <a href="wifi.html" id="wifiPasswordValue"></a>

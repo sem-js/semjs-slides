@@ -1,8 +1,9 @@
-##  💵 Sponsors
+## 💵 Sponsors
 
 <br />
 
-RIP this slide ☠️
+-   **Location**: Cahoots
+-   **Food**: None
 
 <br />
 sponsors@semjs.org
