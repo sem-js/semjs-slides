@@ -4,13 +4,11 @@
 
 <br/>
 
-** June 13 - Double Header **
+** July 11 **
 
-<br/>
+The new Dynamic: The State of Web Infrastructure Mid-2022
 
-🐙 Testing-library with Aaron Harper
-
-📚 Interaction testing inside Storybook with Ian VanSchooten
+with Tommy Williams
 
 <br/>
 <br/>
