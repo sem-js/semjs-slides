@@ -4,7 +4,7 @@
 
 ### Michigan TypeScript - Tues, July 5
 
-TBA
+Make Bold Changes w/ Confidence, HighPerf React Architecture
 
 <br/>
 
