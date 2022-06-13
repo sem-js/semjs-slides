@@ -1,5 +1,11 @@
-## 🎬 Featured Talk
+## 🎬 Featured Talks
 
-### Creating a Web-Based Language Playground using React and TypeScript
+### Testing Library: Testing from a User's Perspective
 
-#### Michael Tiller
+#### Aaron Harper
+
+<br/>
+
+### Component Testing in Storybook
+
+#### Ian VanSchooten

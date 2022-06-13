@@ -2,12 +2,14 @@
 
 <br/>
 
-### Ann Arbor Tech - Wed, June 1
+### Michigan TypeScript - Tues, July 5
 
-A Whirlwind Tour of Unsupervised Machine Learning Methods with Cameron Fen
+TBA
 
 <br/>
 
-### Michigan TypeScript - Tues, June 7
+### Coffee House Coders - Wed, July 6
 
-TS Code Gen for APIs, TS Codemods, Custom ESLint Rules
+First in-person since 2020
+
+<br/>
