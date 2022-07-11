@@ -4,11 +4,11 @@
 
 <br/>
 
-** July 11 **
+** August 8 **
 
-The new Dynamic: The State of Web Infrastructure Mid-2022
+TBD
 
-with Tommy Williams
+with … you?
 
 <br/>
 <br/>
