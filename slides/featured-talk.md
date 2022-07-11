@@ -1,11 +1,5 @@
 ## 🎬 Featured Talks
 
-### Testing Library: Testing from a User's Perspective
+### The New Dynamic: The State of Web Infrastructure mid-2022
 
-#### Aaron Harper
-
-<br/>
-
-### Component Testing in Storybook
-
-#### Ian VanSchooten
+#### Tommy Williams

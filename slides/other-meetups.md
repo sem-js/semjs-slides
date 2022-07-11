@@ -2,14 +2,14 @@
 
 <br/>
 
-### Michigan TypeScript - Tues, July 5
+### Tech[inclusive] - Sat, July 16
 
-Make Bold Changes w/ Confidence, HighPerf React Architecture
+Code & Coffee
 
 <br/>
 
-### Coffee House Coders - Wed, July 6
+### Michigan TypeScript - Tues, August 2
 
-First in-person since 2020
+Make Bold Changes w/ Confidence, HighPerf React Architecture
 
 <br/>

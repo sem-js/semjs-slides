@@ -3,7 +3,7 @@
 <br />
 
 -   **Location**: Cahoots
--   **Food**: Ian
+-   **Food**: None
 
 <br />
 sponsors@semjs.org
