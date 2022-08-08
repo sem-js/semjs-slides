@@ -4,11 +4,11 @@
 
 <br/>
 
-** August 8 **
+** September 12 **
 
-TBD
+Exploring 3D Animation with Scenic, a JavaScript Rendering Engine
 
-with … you?
+with Miguel Castillo
 
 <br/>
 <br/>

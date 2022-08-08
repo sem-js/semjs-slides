@@ -1,5 +1,5 @@
 ## 🎬 Featured Talks
 
-### The New Dynamic: The State of Web Infrastructure mid-2022
+### Understanding Codemods and jscodeshift
 
-#### Tommy Williams
+#### Guarav Kulkarni

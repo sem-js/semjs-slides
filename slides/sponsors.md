@@ -3,7 +3,7 @@
 <br />
 
 -   **Location**: Cahoots
--   **Food**: None
+-   **Food**: Blumira
 
 <br />
 sponsors@semjs.org
